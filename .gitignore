@@ -1,0 +1,5 @@
+*.log
+*.h264
+*.mp4
+*.pyc
+__pycache__
